@@ -18,6 +18,8 @@ RPG Maker MV에서 사용할 수 있는 JavaScript 플러그인을 개발하고 
 
 플러그인은 지속적으로 추가 및 개선될 예정입니다.
 
+
+
 # RPG Maker MV JavaScript Plugins
 
 A collection of JavaScript plugins developed for RPG Maker MV.
